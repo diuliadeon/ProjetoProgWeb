@@ -1,0 +1,29 @@
+body {
+	background-color: #F19494;
+	text-align: center;
+}
+		
+#Geral {
+	border: 20px;
+	text-align: center;
+}
+		
+h1{
+	font-size: 20px;
+	color: #036;
+	border: 10px;
+	font-style: Verdana;
+}
+		
+#Conteudo {
+	height: 100px;
+}
+
+#Rodape {
+	text-align: center;
+}
+		
+p.rodape {
+	color: #727272;
+	font-size: 12px;
+}

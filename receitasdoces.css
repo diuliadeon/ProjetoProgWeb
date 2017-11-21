@@ -1,0 +1,52 @@
+body {
+	background-color: #F19494;
+	text-align: center;
+}
+
+#parocultoP {
+	display: none;
+}
+
+#parocultoB {
+	display: none;
+}
+
+#parocultoA {
+	display: none;
+}
+
+#ReceitaPudim {
+	text-align: center;
+}
+			
+p.receitapudim {
+	color: #727272;
+	font-size: 12px;
+}
+
+#ReceitaBanoffe {
+	text-align: center;
+}
+			
+p.receitabanoffe {
+	color: #727272;
+	font-size: 12px;
+}
+
+#ReceitaAmora {
+	text-align: center;
+}
+			
+p.receitaamora {
+	color: #727272;
+	font-size: 12px;
+}
+
+#Rodape {
+	text-align: center;
+}
+		
+p.rodape {
+	color: #727272;
+	font-size: 12px;
+}

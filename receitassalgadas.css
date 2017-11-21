@@ -1,0 +1,52 @@
+body {
+	background-color: #F19494;
+	text-align: center;
+}
+
+#paroculto {
+	display: none;
+}
+
+#parocultoT {
+	display: none;
+}
+
+#parocultoG {
+	display: none;
+}
+
+#ReceitaPenne {
+	text-align: center;
+}
+			
+p.receitapenne {
+	color: #727272;
+	font-size: 12px;
+}
+
+#ReceitaTorta {
+	text-align: center;
+}
+			
+p.receitatorta {
+	color: #727272;
+	font-size: 12px;
+}
+
+#ReceitaGratinado {
+	text-align: center;
+}
+			
+p.receitagratinado {
+	color: #727272;
+	font-size: 12px;
+}
+
+#Rodape {
+	text-align: center;
+	}
+
+p.rodape {
+	color: #727272;
+	font-size: 12px;
+}
