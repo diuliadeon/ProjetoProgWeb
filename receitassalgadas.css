@@ -50,3 +50,42 @@ p.rodape {
 	color: #727272;
 	font-size: 12px;
 }
+
+#remove{
+	background-color: #F19491;
+	color: white;
+	border: none;
+	font-weight: bold;
+}
+
+#apresenta{
+	color: #F19491;
+	background-color: white;
+	border: none;
+}
+
+#removeT{
+	background-color: #F19491;
+	color: white;
+	border: none;
+	font-weight: bold;
+}
+
+#apresentaT{
+	color: #F19491;
+	background-color: white;
+	border: none;
+}
+
+#removeG{
+	background-color: #F19491;
+	color: white;
+	border: none;
+	font-weight: bold;
+}
+
+#apresentaG{
+	color: #F19491;
+	background-color: white;
+	border: none;
+}
